@@ -35,15 +35,15 @@ p {
   text-align: center;
 }
 
+.left {
+  text-align: left;
+}
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-}
-
-.text-centered {
-  text-align: center;
 }
 
 .dark-background {
@@ -60,3 +60,4 @@ img {
   width: 300px;
   margin: auto;
 }
+
