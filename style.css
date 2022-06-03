@@ -28,7 +28,7 @@ p {
   font-family: cursive;
   font-size: 10px;
   padding-bottom: 30px;
-  border-bottom: 3px solid #3f4c66
+  border-bottom: 3px solid #3f4c66;
 }
 
 .center {
@@ -61,3 +61,10 @@ img {
   margin: auto;
 }
 
+main, footer, header {
+  padding: 1px;
+}
+
+#shorter {
+  height: 10px;
+}
